@@ -14,7 +14,7 @@ Prompting Llama2: The app sends these keywords as a dynamic text prompt to the O
 Text Generation: The Ollama Llama2 model processes the prompt and returns a generated fairytale that matches the theme and tone described by the user.<br/>
 Frontend Rendering: The story is displayed interactively using React, with GSAP animations enhancing the visual experience as the story progresses.<br/>
 
-# Designed and implemented the frontend UI from scratch, including the layout, responsive design, interactions, and overall user experience.
+# I designed and built the frontend of this website myself, including the overall layout, UI, and interactions.
 # **Demo**<br/><br/>
 The basic landing page<br/>
 ![Screenshot (89)](https://github.com/user-attachments/assets/cfa5ccb6-195e-416d-bd4d-544a41f1226f)
